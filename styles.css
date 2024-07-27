@@ -1,1 +1,30 @@
 /*  your css code here. If applicable */
+table.Student-D {
+            border-collapse: separate;
+			border:2px solid;
+			border-left-color: grey;
+			border-top-color:grey;
+            width: 50%;
+            margin: 10% auto;
+            background-color: yellow;
+			text-align:left;
+			padding: 2px;
+        }
+      table.Student-D  th, td {
+            border: 2px solid black;
+            text-align: left;
+            padding: 1px;
+            /* font-weight: bold; */
+			border-right-color:grey;
+			border-bottom-color:grey;
+		  font-size:24px;
+        }
+        th {
+            font-size: 24px ;
+			font-weight:bold;
+        }
+        caption {
+            font-size: 1.5em;
+            /* font-weight: bold; */
+            margin-bottom: 10px;
+        }
