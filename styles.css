@@ -1,4 +1,4 @@
-table,th,td,tr
+table,th,tr
 {
 	border:1px, solid black;
 	border-right-color:grey;
@@ -8,6 +8,10 @@ table,th,td,tr
 table.Student-D
 {
 	background-color: yellow;
-	border-right-color:grey;
-	border-bottom-color:gray;
+	border-left-color:grey;
+	border-top-color:grey;
+	border-bottom-color:black;
+	border-right-color:black;
 }
+
+
