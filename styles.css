@@ -7,6 +7,7 @@ table,th,tr
 }
 table
 {
+    border: 1px solid rgb(0, 0, 0);
 	background-color: yellow;
 	border-left-color:grey;
 	border-top-color:grey;
@@ -18,8 +19,5 @@ tbody,tr,td
 	border:1px solid black;
 	border-right-color:grey;
 	border-bottom-color:grey;
-}
-form {
-    border: 1px solid rgb(0, 0, 0);
 }
 
