@@ -19,5 +19,7 @@ tbody,tr,td
 	border-right-color:grey;
 	border-bottom-color:grey;
 }
-
+form {
+    border: 1px solid rgb(0, 0, 0);
+}
 
