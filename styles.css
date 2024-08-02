@@ -20,4 +20,7 @@ tbody,tr,td
 	border-right-color:grey;
 	border-bottom-color:grey;
 }
+table, th, tr, td {
+    border: 1px solid black;
+}
 
